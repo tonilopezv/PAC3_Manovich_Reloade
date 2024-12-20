@@ -67,7 +67,7 @@ Des de l’òptica de Manovich, aquests processos il·lustren a la perfecció el
 1. **Transcodificació:** El coneixement tradicional, molts cops transmès oralment, es converteix en dades i codis informàtics interpretables per l’aplicació, que a la seva vegada el representen en formats visuals i interactius. 
 1. **Integració multimèdia:** L’usuari no només llegeix dades numèriques, sinó que les veu incrustades en el paisatge real a través de la RA, combinant informació textual, infografies, icones i potser fins i tot àudio i vídeo explicatius.
 
-### Conclusió
+- ### Conclusió
 
 Aquest escenari ja no és un simple procés de digitalització, sinó una autèntica hibridació que integra el món natural i el digital, la saviesa ancestral i la precisió algorítmica, l’objecte físic i la seva representació virtual. Així, es reformula el paper del horticultor, que esdevé un operador d’informació cultural i ambiental, i també el rol de la natura, que deixa de ser un context merament físic per convertir-se en un espai de dades i representacions dinàmiques. 
 
