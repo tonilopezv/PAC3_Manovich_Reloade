@@ -8,8 +8,9 @@
 ## Exemple d’hibridació 1: App PianoVision
 
 
-![App PianoVision](https://about.fb.com/wp-content/uploads/2023/11/01_Piano-Vision.gif)
-_Font: [Meta](https://about.fb.com/news/2023/11/meta-quest-3-holiday-gift-that-transforms-your-home/)_
+[![Demo PianoVision](https://img.youtube.com/vi/6hScacmPAek/0.jpg)](https://www.youtube.com/watch?v=6hScacmPAek)
+
+_Font: [PianoVision](https://www.pianovision.com)_
 
 La transformació que el programari ha exercit en la manera de produir, consumir i experimentar els mitjans culturals és un dels punts centrals en la reflexió de Lev Manovich a *El software pren el control*. L’autor destaca com el programari ha esdevingut la matèria primera que no sols processa continguts, sinó que també els determina, configura i hibrida. Un cas recent que exemplifica aquesta idea és **PianoVision**, una aplicació que combina realitat augmentada, interacció multimèdia i aprenentatge musical per crear una experiència única.
 
