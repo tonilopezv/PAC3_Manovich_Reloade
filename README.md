@@ -2,7 +2,9 @@
 # PAC3_Manovich_Reloaded
 ### "Les ulleres de Manovich"
 **Autor:** Antoni López Valverde
+
 **Curs:** Grau en Tècniques d'Interacció Digital i Multimèdia
+
 **Data:** 19/12/2024
 
 ## Exemple d’hibridació 1: App PianoVision
