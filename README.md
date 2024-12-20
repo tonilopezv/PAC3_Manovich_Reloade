@@ -24,7 +24,7 @@ La interfície gràfica del programari, a través de la RA, situa els elements i
 
 El programari es converteix en la infraestructura subjacent que modela com experimentem els continguts culturals. PianoVision és un bon exemple d’aquesta tesis. Tot i que la base és un instrument pre-digital (el piano), la seva funcionalitat s’expandeix i es redefineix a través del programari. La peça musical ja no es transmet únicament en forma de partitures convencionals, sinó com un flux d’instruccions visuals ajustables a les necessitats de cadascú. Això permet al programari introduir variabilitat, modularitat, i integració directa amb altres recursos, mostrant com la hibridació dels mitjans pot alterar la nostra comprensió i pràctica de la música.
 
-- ### Principis d’Hibridació en l'App PianoVision
+- ### Principis d’Hibridació en l'Horticultura
 
 1.  **Modularitat:** Les unitats bàsiques (notes, acords, seqüències rítmiques) s’estructuren digitalment, permetent reorganitzar-les i mostrar-les de múltiples maneres sense alterar la integritat de l’obra global.  
 1.  **Variabilitat:** El programari pot adaptar el tempo, la dificultat o la representació de les notes segons el nivell i els objectius de l’usuari. Aquesta flexibilitat no és pròpia de les partitures tradicionals, sinó del fet que el contingut està codificat i manipulat per programari.  
