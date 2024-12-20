@@ -46,6 +46,7 @@ PianoVision posa de manifest l’essència del que Manovich descriu: el programa
 ## Exemple d’hibridació 2: Horticultura i Jardineria amb VR i sensors
 
 ![Horticultura i VR](https://www.tecnologiahorticola.com/wp-content/uploads/2023/08/6667.jpg)
+
 _Font: [Tecnología Hortícola](https://www.tecnologiahorticola.com/realidad-virtual-aplicada-agricultura/)_
 
 En aquest cas segons la perspectiva que ofereix Manovich ens permet entendre com el programari s’ha convertit en una infraestructura fonamental a l’hora de redefinir els processos culturals i els mitjans d’expressió. Lluny de limitar-se a actuar com un simple canal de transmissió de continguts, el programari n’esdevé la matèria primera, permetent combinar i transformar activitats que abans es desenvolupaven en entorns físics aïllats o amb recursos tradicionals. Un cas recent i poc explorat d’aquesta hibridació és el de l’horticultura i la jardineria, pràctiques mil·lenàries ara reconfigurades gràcies a la integració de la realitat augmentada i sensors donant dades a través d'internet. 
@@ -61,8 +62,8 @@ La hibridació es manifesta amb tota la seva força quan aquests fluxos de dades
 Des de l’òptica de Manovich, aquests processos il·lustren a la perfecció els principis del nou panorama mediàtic. El programari permet la modularitat, ja que les dades dels sensors (humitat, llum, temperatura) es poden combinar de múltiples maneres amb bases de dades de plantes o amb consells d’experts en línia. També facilita la variabilitat, adaptant l’experiència a diferents climes, a horts més grans o més petits, o a l’objectiu de cada horticultor (producció, experimentació, ornamentació). 
 
 - ### Principis d’Hibridació en l'App PianoVision
- 1. **Modularitat:** Les dades recollides dels sensors (humitat, llum, temperatura) són mòduls que es poden combinar amb altres informacions (calendari de cultiu, consells experts, guies visuals) de forma flexible.  
- 1. **Variabilitat:** L’aplicació pot adaptar-se a diferents condicions: un mateix sistema serveix per a un hort domèstic, un jardí públic urbà o una plantació experimental, ajustant les recomanacions segons el context.  
+1. **Modularitat:** Les dades recollides dels sensors (humitat, llum, temperatura) són mòduls que es poden combinar amb altres informacions (calendari de cultiu, consells experts, guies visuals) de forma flexible.  
+1. **Variabilitat:** L’aplicació pot adaptar-se a diferents condicions: un mateix sistema serveix per a un hort domèstic, un jardí públic urbà o una plantació experimental, ajustant les recomanacions segons el context.  
 1. **Transcodificació:** El coneixement tradicional, molts cops transmès oralment, es converteix en dades i codis informàtics interpretables per l’aplicació, que a la seva vegada el representen en formats visuals i interactius. 
 1. **Integració multimèdia:** L’usuari no només llegeix dades numèriques, sinó que les veu incrustades en el paisatge real a través de la RA, combinant informació textual, infografies, icones i potser fins i tot àudio i vídeo explicatius.
 
